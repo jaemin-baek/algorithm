@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6077c53a-92be-4025-a43c-f2997003d7e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Baekjoon2744.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Baekjoon2744.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
+    <list default="true" id="6077c53a-92be-4025-a43c-f2997003d7e6" name="Changes" comment="백준 2744">
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jaemin-baek"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jaemin-baek/algorithm.git",
+    "accountId": "320664ed-21df-4bb2-a569-aa2295d1e602"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -59,7 +62,7 @@
       <recent name="$PROJECT_DIR$/src/baekjoon" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Baekjoon2744Kt">
+  <component name="RunManager" selected="Kotlin.Baekjoon2744_1Kt">
     <configuration name="Baekjoon2744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon.Baekjoon2744" />
       <module name="test" />
@@ -74,8 +77,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Baekjoon2744_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Baekjoon2744_1Kt" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Baekjoon2744_1Kt" />
         <item itemvalue="Kotlin.Baekjoon2744Kt" />
         <item itemvalue="Application.Baekjoon2744" />
       </list>
@@ -90,6 +101,19 @@
       <option name="presentableId" value="Default" />
       <updated>1721173136805</updated>
     </task>
+    <task id="LOCAL-00001" summary="백준 2744">
+      <option name="closed" value="true" />
+      <created>1721826846005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721826846005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="백준 2744" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 2744" />
   </component>
 </project>
