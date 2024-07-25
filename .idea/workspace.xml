@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6077c53a-92be-4025-a43c-f2997003d7e6" name="Changes" comment="백준 2744">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Backjoon1919.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +48,11 @@
   "keyToString": {
     "Application.Baekjoon2744.executor": "Run",
     "Application.Main.executor": "Run",
+    "Kotlin.Backjoon1919Kt.executor": "Run",
     "Kotlin.Baekjoon2744Kt.executor": "Run",
+    "Kotlin.Baekjoon2744_1Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.TestKt.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -62,9 +65,16 @@
       <recent name="$PROJECT_DIR$/src/baekjoon" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Baekjoon2744_1Kt">
+  <component name="RunManager" selected="Kotlin.Backjoon1919Kt">
     <configuration name="Baekjoon2744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon.Baekjoon2744" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Backjoon1919Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Backjoon1919Kt" />
       <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Backjoon1919Kt" />
         <item itemvalue="Kotlin.Baekjoon2744_1Kt" />
         <item itemvalue="Kotlin.Baekjoon2744Kt" />
         <item itemvalue="Application.Baekjoon2744" />
